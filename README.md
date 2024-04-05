@@ -198,7 +198,7 @@ src
         <img src="img/screen/메인_풍선.gif" width="100%" />
       </td>
       <td>
-        <img src="img/screen/자동완성.jpg" width="490px" />
+        <img src="img/screen/자동완성2.jpg" width="490px" />
       </td>
       <td>
         <img src="img/screen/empty.png" />
@@ -213,7 +213,7 @@ src
   <table>
     <tr>
       <td>
-        <img src="img/screen/리캡.jpg" width="490px" />
+        <img src="img/screen/리캡2.jpg" width="490px" />
       </td>
       <td>
         <img src="img/screen/쇼츠.gif" width="100%" />
@@ -231,7 +231,7 @@ src
   <table>
     <tr>
       <td>
-        <img src="img/screen/월드컵.jpg" width="490px" />
+        <img src="img/screen/월드컵2.jpg" width="490px" />
       </td>
       <td>
         <img src="img/screen/추천.gif" width="100%" />
@@ -267,7 +267,7 @@ src
   <table>
     <tr>
       <td>
-        <img src="img/screen/다이어리c.jpg" width="490px" />
+        <img src="img/screen/다이어리c1.jpg" width="490px" />
       </td>
       <td>
         <img src="img/screen/요리달력.jpg" width="490px" />
